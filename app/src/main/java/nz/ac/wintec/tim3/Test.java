@@ -5,6 +5,7 @@ package nz.ac.wintec.tim3;
  */
 public class Test {
     public void myMethod(){
-        int i = 2;
+        int i = 23;
+        int i1 = 23;
     }
 }
